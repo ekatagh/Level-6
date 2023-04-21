@@ -24,7 +24,7 @@ IP address ma 56 rakhne hainnnaaaaaaaa 192.168.56.0 ------ like this these are t
 
 Memory DUmp , NIC --- common windows 7 
 
-Hacking and protection -- hack , protection  , conclusion 
+Hacking and protection -- hack , protection 1-half page , conclusion 
 
 Task show after hacking (just show any threee not just one)
 1.IP show
@@ -33,11 +33,11 @@ Task show after hacking (just show any threee not just one)
 4. Desktop tanne/VNC --- marks badi
 5. Services dekhauna paiyo 
 
-
+Phase 1 and Phase 2 garera garna parxa
 Phase 1 -- hacking 
-Phase 2 -- protection 
+Phase 2 -- protection and after protection ko hacking possible na bhako condition 
 
-Protection:antivirus , firewall integration 
+Protection:antivirus , firewall integration , yesto gareko xa bhane hack hudaina bhanera ni dekhauna parne hunxa
 
 hunai parne topic 
 Introduction /Front page 
@@ -47,6 +47,10 @@ relative software
 protection 
 
 Figure:
+Attack anatomy -- bridge,NAt
+Table coluknvirtual machine, Network adapter, NIC , IP Address
+....box ma extra column IP address bhanera rakhne
+network mapping -> virtual net switching, kun ma kun nic rakheko 
 VVVIII MSF console chalauda Version 6 dekhina paryo 
 	NMap chalauda kheri information collection garne first ma and then hacking. Network connectivity --ping(machine on)
 					-- netwrok lai 
@@ -69,15 +73,16 @@ Conclusion: firewall , ironport ,ios, ids words rakhda hunxa
 1.Turnitin report 
 Page - 25 
 2.2nd page -- designing page -- cover page -- 5 marks -- cartoon character halne -- logo- uni and TBC  , 
+Topic Attack on BLueKeep CVE-2019-0708.
 3. 16-17 Refrences in the biblography Accessed bhanera na rakhda hunxa 
 4. Overall Quality 
 
-
+---- more than half page lekhne----
 5. Prevention 
-6. Related Software
+6. Related Software --- msf le hack garne jasto aru pani tool xa bhannera rakhdine like armitage, openvas, nnecess ,
 7. Critical reflection
 8. Conclusion
-
+-----------------------------------
 9. Protection 
 10. Tools used intro ma lekhda better hunxa 
 
