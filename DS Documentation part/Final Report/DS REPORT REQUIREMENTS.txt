@@ -1,0 +1,114 @@
+Report 
+
+A)kali to windows
+xp , 7,8,10,11
+11 nagar
+
+Table of content
+Table of figure 
+
+PHOTOOOOOO rakh 
+
+
+XP use -- 0.5 minus 
+best 7 and 8 -- maximum student 7 
+7 variety -- home, student , pro, ultimate -- windows 7 ko pro version 
+15 category windows 7 ko 
+
+MSF Console chaluna painxa not the armitage 
+armitage use garda 15% katxa 
+
+
+IP address ma 56 rakhne hainnnaaaaaaaa 192.168.56.0 ------ like this these are the defult one 
+
+
+Memory DUmp , NIC --- common windows 7 
+
+Hacking and protection -- hack , protection  , conclusion 
+
+Task show after hacking (just show any threee not just one)
+1.IP show
+2.Folder creation 
+3.Shutdown 
+4. Desktop tanne/VNC --- marks badi
+5. Services dekhauna paiyo 
+
+
+Phase 1 -- hacking 
+Phase 2 -- protection 
+
+Protection:antivirus , firewall integration 
+
+hunai parne topic 
+Introduction /Front page 
+Bibliography 
+conclusion
+relative software 
+protection 
+
+Figure:
+VVVIII MSF console chalauda Version 6 dekhina paryo 
+	NMap chalauda kheri information collection garne first ma and then hacking. Network connectivity --ping(machine on)
+					-- netwrok lai 
+					-- machine open port and OS tha paune 
+					-- hack
+8- 11 otta photo 
+Network scan - photo
+ping command -photo
+Open port , OS , TCP/IP tha huna paryo before exploit 
+nmap- photo -- alernative software Zenmap , Nikanto -- sajilo nmap nai hunxa
+hack - photo
+
+nmap -- 2 photo
+msf photo -v6 -- 1 phot
+
+Protection ko image pani rakhda hunxa
+
+Conclusion: firewall , ironport ,ios, ids words rakhda hunxa 
+
+1.Turnitin report 
+Page - 25 
+2.2nd page -- designing page -- cover page -- 5 marks -- cartoon character halne -- logo- uni and TBC  , 
+3. 16-17 Refrences in the biblography Accessed bhanera na rakhda hunxa 
+4. Overall Quality 
+
+
+5. Prevention 
+6. Related Software
+7. Critical reflection
+8. Conclusion
+
+9. Protection 
+10. Tools used intro ma lekhda better hunxa 
+
+
+Information gathering -- ip address category 
+ping
+ifconfig -- ip add show 
+network 1.0/255 network scanning
+kun os , open port TCP/UDP   -o -st -p 
+nmap scanning sudo nmap 192.168.1.84
+exploit msf 6 
+
+hack garisakepaxi ko minimum 3 otta tasks 
+sys info
+sys 
+Shell tanne dir banaune , shutdown gardine 
+dir creation
+user creation
+Screenshare -- windows 7 use garne le yo garda thik hunxa -- border green(boundary)
+
+protection -- 
+firewall on word haru haldine like Layer3 device chainxa, IDS/IPS, Iron port , Pix ,  ACASSOR
+antivirus 
+software update patches -- saftey patches 
+
+Spacing 
+1.5 top , left ,, 1 down right 
+Font 
+16 main heading 
+14 sub heading 
+12 content 
+
+
+B)kali to linux  eg: ftp, TFTP  SSH, Web/Apache --- set up garna parxa best TFTP hunxa re

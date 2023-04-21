@@ -1,0 +1,33 @@
+1> Create your name user with password enable complex
+2> Create folder of your name with permission of 755
+3> Install package as you want like , HTOP , Gedit , Nmap , etc
+4> Make Network if 172.16.100.0/26 with mannuall setup 
+5> Verify open port for tcp/udp range from 0-500 
+
+
+redirrection file ma log send garirakhne 
+
+pwd: #@Network3
+full name :Ekata Ghimire
+Room Number : 4444
+
+
+ls / |grep foldername - this shows if the folder is present in the directory 
+
+sudo adduser ekatagh --- creating the new user 
+ls -l will give you the permission of the folder
+	permission check -- umask 022 is 755 
+	chmod 755 mydir -- this gives the 755 permission to the user 
+	in order to change the permission 
+	umask 023 for the 544
+	chmod 544 mydir 
+
+then the permission for the mydir will now be 544
+
+Threee user
+Ram1 -- ful control
+Ram2 --- read
+Ram3 ---write 
+
+logout ram2 verify 
+logout ram3 verify
